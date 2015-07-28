@@ -1,9 +1,9 @@
-highlighter: true
+highlighter: pygments
 permalink: /blog/:year/:month/:day/:title
 markdown: rdiscount
 exclude: ['.git', 'bower.json', '.bowerrc', 'README.md']
-name: "Happy Game Time"
-description: "Happy Game Time - A Game Blog"
+name: "Christian Paulsen Blog"
+description: "Christian Paulsen Dev Blog"
 url: http://happygametime.com
 authors:
   ebertx:

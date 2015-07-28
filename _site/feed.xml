@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Happy Game Time</title>
+    <title>Christian Paulsen Blog</title>
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="description" content="Happy Game Time - A Game Blog">
+    <meta name="description" content="Christian Paulsen Dev Blog">
     <link rel="canonical" href="http://happygametime.com/feed.xml">
 <!--     <link rel="apple-touch-img/logo-precomposed" href="/otter-pop/img/logo.jpg">
     <link rel="apple-touch-img/logo" href="/otter-pop/img/logo.jpg">
@@ -33,13 +33,13 @@
 
   <div class="wrapper">
     <!--<h1><marquee scrolldelay="60">otter pop - the world's greatest jekyll theme</marquee></h1>-->
-    <h1>Happy Game Time</h1>
+    <h1>Christian Paulsen Blog</h1>
 
     <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Happy Game Time</title>
-    <description>Happy Game Time - A Game Blog</description>
+    <title>Christian Paulsen Blog</title>
+    <description>Christian Paulsen Dev Blog</description>
     <link>http://happygametime.com</link>
     <atom:link href="http://happygametime.com/feed.xml" rel="self" type="application/rss+xml" />
     

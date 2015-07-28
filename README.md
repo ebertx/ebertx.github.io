@@ -1,4 +1,4 @@
-# Happy Game Time Blog
+# Christian Paulsen Blog
 
-The only gaming blog that matters (to me)
+A Blog
 

@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Ebertx Blog</title>
-</head>
-<body>
-	<h1>Test</h1>
-</body>
-</html>
+---
+layout: default
+---
+<div class="posts">
+      {% for post in site.posts %}{% if post.hidden != true %}<a href="{{ post.url }}" class="post-link">{{ post.title }}</a>
+      {% endif %}{% endfor %}
+</div>

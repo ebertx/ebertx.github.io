@@ -1,21 +1,28 @@
-highlighter: pygments
-permalink: /blog/:year/:month/:day/:title
-markdown: rdiscount
-exclude: ['.git', 'bower.json', '.bowerrc', 'README.md']
-name: "Christian Paulsen Blog"
-description: "Christian Paulsen Dev Blog"
-url: http://happygametime.com
-authors:
-  ebertx:
-    nick: ebertx
-    name: Christian Paulsen
-    display_name: Christian
-    gravatar: b71a5abdd696a20fc42d369a5e6be7e7
-    email: ebertx@gmail.com
-    web: http://apcoder.com
-    twitter: ebertx
-    github: ebertx
-  vancext:
-    nick: vancext
-    name: Matt Anderson
-    display_name: Matt
+# Dependencies
+markdown:         redcarpet
+# highlighter:      pygments
+
+gems:             [jekyll-paginate]
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Christian Paulsen
+tagline:          'A blog'
+description:      'A blog'
+url:              http://christianpaulsen.com
+baseurl:          /
+
+author:
+  name:           'Christian Paulsen'
+  url:            https://twitter.com/ebertx
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ebertx/ebertx.github.io

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Gonzo JS
+title: Clockwork Elves
+tags: clockwork_elves
 ---
 
 Finally, someone is speaking some truth.

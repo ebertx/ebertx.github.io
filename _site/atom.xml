@@ -4,13 +4,24 @@
  <title>Christian Paulsen</title>
  <link href="http://christianpaulsen.com/atom.xml" rel="self"/>
  <link href="http://christianpaulsen.com/"/>
- <updated>2016-02-24T17:08:27-08:00</updated>
+ <updated>2016-02-29T14:36:36-08:00</updated>
  <id>http://christianpaulsen.com</id>
  <author>
    <name>Christian Paulsen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Gonzo JS</title>
+   <link href="http://christianpaulsen.com/2016/02/29/clockwork-elves/"/>
+   <updated>2016-02-29T00:00:00-08:00</updated>
+   <id>http://christianpaulsen.com/2016/02/29/clockwork-elves</id>
+   <content type="html">&lt;p&gt;Finally, someone is speaking some truth:&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/0BKzuzjjCro&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Gonzo JS</title>

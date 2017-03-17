@@ -4,13 +4,24 @@
  <title>Christian Paulsen</title>
  <link href="http://christianpaulsen.com/atom.xml" rel="self"/>
  <link href="http://christianpaulsen.com/"/>
- <updated>2017-03-15T23:03:55-07:00</updated>
+ <updated>2017-03-16T17:49:40-07:00</updated>
  <id>http://christianpaulsen.com</id>
  <author>
    <name>Christian Paulsen</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Alex Jones is too humble</title>
+   <link href="http://christianpaulsen.com/2017/03/16/alex-jones-is-too-humble/"/>
+   <updated>2017-03-16T00:00:00-07:00</updated>
+   <id>http://christianpaulsen.com/2017/03/16/alex-jones-is-too-humble</id>
+   <content type="html">&lt;p&gt;How do I know Alex Jones is humble? Because he never brags. Watch this video for proof.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/L8tr4xDm2Lc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Titanfall 2</title>

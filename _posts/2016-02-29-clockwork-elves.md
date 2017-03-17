@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clockwork Elves
-tags: clockwork_elves
+tags: clockwork_elves alex_jones
 ---
 
 Finally, someone is speaking some truth.
